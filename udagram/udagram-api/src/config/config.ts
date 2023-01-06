@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/camelcase */
 import * as dotenv from "dotenv";
 dotenv.config();
 
